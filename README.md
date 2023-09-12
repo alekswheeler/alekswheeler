@@ -20,18 +20,21 @@
     <img src="https://img.shields.io/badge/C-00599C?style=Flat-square&logo=lc&logoColor=white">
     <img src="https://img.shields.io/badge/Brave-FB542B?style=Flat-square&logo=Brave&logoColor=white">
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=Flat-square&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=Flat-square&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=Flat-square&logo=figma&logoColor=white">
   </div>
 
   ### Um pouco sobre mim
   
-- 🌱 Atualmente aprendendo desenvolvimento web com foco no back-end em nodejs.
-- 😄 Pronouns: ele/dele.
+- 🌱 Desenvolvedor fullstack trabalhando no momento com diversos frameworks do universo javascript.
+- 🎓 Desenvolvedor fullstack, apaixonado por tecnologia e programação.
+- 🎓 Bacharel em Ciência da Computação pela Universidade Federal do Espiríto Santo.
+- 💼 Diretor de projetos de tecnologia na empresa júnior de computação da UFES.
 - ⚡ Fun fact: Nos tempos livres eu invento novos pratos (da internet) e tento não queimar nada na cozinha 😬.
   
 <div align="center">
   <a href="https://github.com/alekswheeler">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekswheeler&layout=compact&langs_count=6&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
-    
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekswheeler&layout=pie&langs_count=6&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
 </div>
   
 <div align="center">
@@ -44,6 +47,12 @@
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://t.me/alekswheeler">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="mailto:alexskntks1331@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
  
