@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/57152476/161855549-80b1006e-4af2-4b8e-a458-2665432531c6.png)
+[![github-header-image](https://user-images.githubusercontent.com/57152476/161855549-80b1006e-4af2-4b8e-a458-2665432531c6.png)](https://alekswheeler.github.io/portfolio/)
 
   
   ---
@@ -24,6 +24,9 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=Flat-square&logo=figma&logoColor=white">
   </div>
 
+
+  ### 🔗 [Visite minha página pessoal](https://alekswheeler.github.io/portfolio/)
+  
   ### Um pouco sobre mim
   
 - 🌱 Desenvolvedor fullstack trabalhando no momento com diversos frameworks do universo javascript.
