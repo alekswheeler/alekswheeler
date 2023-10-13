@@ -29,11 +29,11 @@
   
   ### Um pouco sobre mim
   
-- 🌱 Desenvolvedor fullstack trabalhando no momento com diversos frameworks do universo javascript.
-- 👨‍💻 Desenvolvedor fullstack, apaixonado por tecnologia e programação.
+- 👨‍💻 Desenvolvedor fullstack, apaixonado por tecnologia e programação. trabalhando no momento com diversos frameworks do universo javascript.
 - 🎓 Bacharel em Ciência da Computação pela Universidade Federal do Espiríto Santo.
 - 💼 Diretor de projetos de tecnologia na empresa júnior de computação da UFES.
 - ⚡ Fun fact: Nos tempos livres eu invento novos pratos (da internet) e tento não queimar nada na cozinha 😬.
+
   
 <div align="center">
   <a href="https://github.com/alekswheeler">
