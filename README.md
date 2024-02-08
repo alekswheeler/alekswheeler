@@ -31,7 +31,6 @@
   
 - 👨‍💻 Desenvolvedor fullstack, apaixonado por tecnologia e programação. trabalhando no momento com diversos frameworks do universo javascript.
 - 🎓 Bacharel em Ciência da Computação pela Universidade Federal do Espiríto Santo.
-- 💼 Diretor de projetos de tecnologia na empresa júnior de computação da UFES.
 - ⚡ Fun fact: Nos tempos livres eu invento novos pratos (da internet) e tento não queimar nada na cozinha 😬.
 
   
