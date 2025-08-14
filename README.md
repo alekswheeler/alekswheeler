@@ -1,4 +1,4 @@
-[![github-header-image](https://user-images.githubusercontent.com/57152476/161855549-80b1006e-4af2-4b8e-a458-2665432531c6.png)](https://alekswheeler.github.io/portfolio/)
+[![github-header-image](https://user-images.githubusercontent.com/57152476/161855549-80b1006e-4af2-4b8e-a458-2665432531c6.png)](https://alekswheeler.netlify.app/)
 
   
   ---
@@ -25,15 +25,14 @@
   </div>
 
 
-  ### 🔗 [Visite minha página pessoal](https://alekswheeler.github.io/portfolio/)
+  ### 🔗 [Visite minha página pessoal](https://alekswheeler.netlify.app/)
   
   ### Um pouco sobre mim
-  
-- 👨‍💻 Desenvolvedor fullstack, apaixonado por tecnologia e programação. trabalhando no momento com diversos frameworks do universo javascript.
-- 🎓 Bacharel em Ciência da Computação pela Universidade Federal do Espiríto Santo.
-- ⚡ Fun fact: Nos tempos livres eu invento novos pratos (da internet) e tento não queimar nada na cozinha 😬.
 
-  
+- 👨‍💻 Desenvolvedor backend com experiência em C# e Node.js, atualmente aprofundando conhecimentos em frameworks Java e explorando ciência de dados e machine learning.
+- 🎓 Graduando em Ciência da Computação pela Universidade Federal do Espírito Santo.
+- ⚡ Fun fact: Nos tempos livres me arrisco na cozinha — alguns pratos viram sucesso, outros viram aprendizado culinário. 😅
+
 <div align="center">
   <a href="https://github.com/alekswheeler">
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekswheeler&layout=pie&langs_count=6&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
