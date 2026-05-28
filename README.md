@@ -1,4 +1,4 @@
-[![github-header-image](https://user-images.githubusercontent.com/57152476/161855549-80b1006e-4af2-4b8e-a458-2665432531c6.png)](https://alekswheeler.netlify.app/)
+[![github-header-image](https://user-images.githubusercontent.com/57152476/161855549-80b1006e-4af2-4b8e-a458-2665432531c6.png)](https://aleks.qzz.io/)
 
   
   ---
@@ -29,9 +29,11 @@
   
   ### Um pouco sobre mim
 
-- 👨‍💻 Desenvolvedor backend com experiência em C# e Node.js, atualmente aprofundando conhecimentos em frameworks Java e explorando ciência de dados e machine learning.
-- 🎓 Graduando em Ciência da Computação pela Universidade Federal do Espírito Santo.
-- ⚡ Fun fact: Nos tempos livres me arrisco na cozinha — alguns pratos viram sucesso, outros viram aprendizado culinário. 😅
+* 👨‍💻 Desenvolvedor backend com experiência em **C#**, **Node.js** e no ecossistema **.NET**, atualmente aprofundando conhecimentos em **Python**, arquitetura backend e desenvolvimento de aplicações escaláveis.
+* 🧠 Explorando áreas como **ciência de dados**, **machine learning** e automação, buscando unir engenharia de software e inteligência artificial em projetos práticos.
+* 🎓 Graduado em Ciência da Computação pela Universidade Federal do Espírito Santo.
+* 🚀 Interesse em arquitetura de software, produtividade, cloud e construção de ferramentas que resolvam problemas reais.
+* ⚡ Fun fact: Nos tempos livres me arrisco na cozinha — alguns pratos viram sucesso, outros entram direto para o backlog de bugs culinários. 😅
 
 <div align="center">
   <a href="https://github.com/alekswheeler">
