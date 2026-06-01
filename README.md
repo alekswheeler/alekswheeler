@@ -25,7 +25,7 @@
   </div>
 
 
-  ### 🔗 [Visite minha página pessoal](https://alekswheeler.netlify.app/)
+  ### 🔗 [Visite minha página pessoal](https://aleks.qzz.io/)
   
   ### Um pouco sobre mim
 
